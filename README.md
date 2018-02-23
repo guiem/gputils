@@ -2,8 +2,7 @@
 
 __gputils__ is a library that contains a variety of utilities that may come handy in diverse projects.
 
-![Coverage](https://github.com/guiem/gputils/blob/master/resources/coverage-badge.svg)
-
+[![Coverage Status](https://coveralls.io/repos/github/guiem/gputils/badge.svg?branch=master)](https://coveralls.io/github/guiem/gputils?branch=master)
 
 ## Installation
 ```
