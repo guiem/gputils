@@ -96,6 +96,3 @@ gputils_env/
 
 # PyCharm
 .idea
-
-# Specific files
-README.rst

@@ -1,8 +1,9 @@
 # General Python Utils (or Guiem's Python Utils :trollface:)
 
-__gputils__ is a library that contains a variety of utilities that may come handy in diverse projects.
+.. image:: https://coveralls.io/repos/github/guiem/gputils/badge.svg?branch=master
+:target: https://coveralls.io/github/guiem/gputils?branch=master
 
-[![Coverage Status](https://coveralls.io/repos/github/guiem/gputils/badge.svg?branch=master)](https://coveralls.io/github/guiem/gputils?branch=master)
+__gputils__ is a library that contains a variety of utilities that may come handy in diverse projects.
 
 ## Installation
 ```
