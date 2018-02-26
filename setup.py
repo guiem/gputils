@@ -12,7 +12,7 @@ with open(path.join(here, 'README.rst'), encoding='utf-8') as f:
 
 setup(
     name='gputils',
-    version='1.0.4',
+    version='1.0.5',
     description='Variety of utilities that may come handy in diverse projects. ',
     long_description=long_description,
     url='https://github.com/guiem/gputils',
