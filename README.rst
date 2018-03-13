@@ -16,3 +16,4 @@ Index of utilities
 ------------------
 - :code:`dyn_mean`: computes the mean based on a previous mean plus a new value. Useful when mean is built incrementally, it saves the usage of huge arrays.
 - :code:`dyn_stdev`: computes the stdev based on a previous stdev plus a new value.
+- :code:`cosine_similarity`: computes the cosine similarity between two vectors or matrix and vector.

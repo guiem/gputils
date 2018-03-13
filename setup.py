@@ -12,7 +12,7 @@ with open(path.join(here, 'README.rst'), encoding='utf-8') as f:
 
 setup(
     name='gputils',
-    version='1.0.5',
+    version='1.0.6',
     description='Variety of utilities that may come handy in diverse projects. ',
     long_description=long_description,
     url='https://github.com/guiem/gputils',
@@ -27,11 +27,11 @@ setup(
     ],
     #packages=find_packages(exclude=['contrib', 'docs', 'tests*']),
     py_modules=["gputils"],
-    install_requires=[],
+    install_requires=['numpy', 'pandas'],
     python_requires='>=3',
     extras_require={
         # 'dev': ['check-manifest'],
-        'test': ['coverage','numpy'],
+        'test': ['coverage'],
     },
     project_urls={
         'Bug Reports': 'https://github.com/guiem/gputils/issues',
